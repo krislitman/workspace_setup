@@ -6,13 +6,15 @@
 `(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 4. Run `brew doctor` to confirm it is installed and `ready to brew`
 5. Update with `brew update`
-6. Grab latest version of git `brew install git`
-7. Install [GitHub CLI](https://cli.github.com/) `brew install gh`
-8. Install fuzzy finder `brew install fzf`
+6. Grab latest version of git: `brew install git`
+7. Install [GitHub CLI](https://cli.github.com/): `brew install gh`
+8. Install fuzzy finder: `brew install fzf`
 9. Install [Oh-My-Zsh](https://ohmyz.sh/): `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-  - Plugins: fzf, osx, web-search, fast-syntax-highlighting, zsh-interactive-cd, zsh-autosuggestions, autojump
-10. Install autojump `brew install autojump`
-11. Install Heroku CLI with `brew install heroku/brew/heroku`
+  - Plugins: [fzf](https://github.com/unixorn/fzf-zsh-plugin), [osx](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/osx), [web-search](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/web-search/web-search.plugin.zsh), [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting), [zsh-interactive-cd](https://github.com/changyuheng/zsh-interactive-cd), [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [autojump](https://github.com/wting/autojump)
+10. Install autojump: `brew install autojump`
+11. Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) with: `brew install heroku/brew/heroku`
+12. Install [AWS CLI](https://aws.amazon.com/cli/): `brew install awscli`
+13. Get latest version of [Python](https://www.python.org/)
 
 # Iterm2 Settings
 
