@@ -23,7 +23,7 @@
    - [MacBartender](https://www.macbartender.com/)
    - [Loom](https://www.loom.com/)
    - [Tuple](https://tuple.app/)
-5. Set up window sharing with [Spectacle](https://www.spectacleapp.com/):
+5. Set up window management with [Spectacle](https://www.spectacleapp.com/):
 ![spectacle](../assets/images/computer/spectacle.png)
 6. In `System Preferences/General` select the `Dark Mode` for appearance
    - Set default web browser to `Google Chrome`
@@ -41,6 +41,6 @@
     -  [Pom Timer](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef)
     -  [AdBlock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
     -  [Nord Theme](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj)
-12. Set up `Istat` and remove battery icon, date/time, and display mirroring from the navigation bar
+12. Set up `iStat` and remove battery icon, date/time, and display mirroring from the navigation bar
 13. Adjust `Flux` to custom colors, do not use classic mode
 
