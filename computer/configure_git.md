@@ -42,3 +42,60 @@ If prompeted to continue connecting, type `yes`
 
 If you see this message, it means everything was successful:
 `Hi ! You've successfully authenticated, but GitHub does not provide shell access.`
+
+<br></br>
+## Git Config
+
+```
+[user]
+	name = Kris Litman
+	email = kris.d.litman@gmail.com
+
+[init]
+	defaultBranch = main
+
+[core]
+	editor = code --wait
+
+[pull]
+	rebase = false
+
+[commit]
+  template = ~/.gitmessage
+
+# Aliases for shortcuts #
+#=======================#
+[alias]
+a = add
+s = status
+c = checkout
+cl = clone
+cm = commit -m
+br = branch -v
+home = checkout main
+pm = pull origin main
+pbr = pull --rebase origin main
+nb = checkout -b
+db = branch -d
+ds = diff --staged
+sw = switch
+#============#
+
+# make new branch #
+#=================#
+last = !sh -c'test "$#" = 1 && git log -$1 HEAD || git log -1 HEAD' -
+clean = !git branch --merged master | grep -v 'master$' | xargs git branch -d
+unstage = reset HEAD --
+ls = log --oneline --decorate --all --graph
+#=> commit history without dates
+ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+#=> commit history with dates/user
+la = "!git config -l | grep alias | cut -c 7-"
+#=> list of alias commands
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+#=============================#
+```

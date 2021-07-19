@@ -17,14 +17,16 @@ To start services, run the command:
 To stop all services:
 `brew services stop --all`
 
-If everything installed correctly, you should be able to connect to PostgreSQL with the command:
+>If everything installed correctly, you should be able to connect to PostgreSQL with the command:
 `psql`
 
-[PostgreSQL](https://www.postgresql.org/)
-[MySQL](https://www.mysql.com/)
-[Redis](https://redis.io/)
+### Links
+
+- [PostgreSQL](https://www.postgresql.org/)
+- [MySQL](https://www.mysql.com/)
+- [Redis](https://redis.io/)
 
 ### Other Tools
-[DBeaver](https://dbeaver.io/)
-[Postico](https://eggerapps.at/postico/)
-[MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [DBeaver](https://dbeaver.io/)
+- [Postico](https://eggerapps.at/postico/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
