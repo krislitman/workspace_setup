@@ -23,15 +23,11 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - draw.io integration
 - erb
 - es7 extension
+- eslint
 - excel viewer
 - flask-snippets
-- github copilot
-- gitlens
 - graphql
 - highlight matching tag
-- html boilerplate
-- html css support
-- html snippets
 - indent to bracket
 - indent-rainbow
 - iterm theme sync
@@ -62,8 +58,8 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - settings-sync
 - simple ruby erb
 - sql beautify
-- sql tools
 - tabnine
 - toggle quotes
+- vim
 - vscode ruby
 - yaml
