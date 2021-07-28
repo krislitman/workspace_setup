@@ -10,7 +10,6 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 
 ### List of Extensions
 - advanced-new-file
-- aws toolkit
 - beautify
 - better comments
 - better jinja
@@ -60,6 +59,5 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - sql beautify
 - tabnine
 - toggle quotes
-- vim
 - vscode ruby
 - yaml
