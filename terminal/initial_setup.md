@@ -34,4 +34,3 @@
 ![four](../assets/images/terminal/profiles:general.png)
 ![five](../assets/images/terminal/profiles:keys.png)
 ![six](../assets/images/terminal/profiles:text.png)
-

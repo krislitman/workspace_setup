@@ -1,6 +1,6 @@
 # Configuration
 
-This is a guide to setting up my environment. Having to start from scratch multiple times, I think it is about time I put some of the steps into writing.
+This is a guide to setting up my OSX environment. Having to start from scratch multiple times, I think it is about time I put some of the steps into writing.
 <br></br>
 
 ![MORTYYYYY](https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif)

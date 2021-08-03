@@ -10,7 +10,6 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 
 ### List of Extensions
 - advanced-new-file
-- aws toolkit
 - beautify
 - better comments
 - better jinja
@@ -23,15 +22,11 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - draw.io integration
 - erb
 - es7 extension
+- eslint
 - excel viewer
 - flask-snippets
-- github copilot
-- gitlens
 - graphql
 - highlight matching tag
-- html boilerplate
-- html css support
-- html snippets
 - indent to bracket
 - indent-rainbow
 - iterm theme sync
@@ -41,6 +36,7 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - live share
 - live share audio
 - live share extension pack
+- markdown editor
 - markdown preview enhanced
 - markdown lint
 - material icon theme
@@ -62,8 +58,9 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - settings-sync
 - simple ruby erb
 - sql beautify
-- sql tools
 - tabnine
+- todo tree
 - toggle quotes
 - vscode ruby
+- vscode vim
 - yaml
