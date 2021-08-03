@@ -36,6 +36,7 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - live share
 - live share audio
 - live share extension pack
+- markdown editor
 - markdown preview enhanced
 - markdown lint
 - material icon theme
@@ -58,6 +59,8 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 - simple ruby erb
 - sql beautify
 - tabnine
+- todo tree
 - toggle quotes
 - vscode ruby
+- vscode vim
 - yaml
