@@ -6,4 +6,4 @@ This is a guide to setting up my OSX environment. Having to start from scratch m
 ![MORTYYYYY](https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif)
 
 <br>
-If you are reading this and following along, please note these are just my preferences and you will likely have your own opinions on different approaches. Feel free to tweak these settings to your liking or send me suggestions.
+If you are reading this and following along, please note these are just my preferences and you will likely have your own opinions on different approaches. Feel free to tweak these settings to your liking/send me suggestions.

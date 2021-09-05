@@ -13,8 +13,7 @@
   - Plugins: [fzf](https://github.com/unixorn/fzf-zsh-plugin), [osx](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/osx), [web-search](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/web-search/web-search.plugin.zsh), [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting), [zsh-interactive-cd](https://github.com/changyuheng/zsh-interactive-cd), [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [autojump](https://github.com/wting/autojump)
 10. Install autojump: `brew install autojump`
 11. Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) with: `brew install heroku/brew/heroku`
-12. Install [AWS CLI](https://aws.amazon.com/cli/): `brew install awscli`
-13. Get latest version of [Python](https://www.python.org/)
+12. Get latest version of [Python](https://www.python.org/)
 
 # Iterm2 Settings
 
