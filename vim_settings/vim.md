@@ -1,1 +1,0 @@
-# List of Vim Plugins
