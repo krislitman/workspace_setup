@@ -19,8 +19,6 @@
    - [Teams](https://teams.microsoft.com/edustart)
    - [Spotify](https://www.spotify.com/us/home/)
    - [Flux](https://justgetflux.com/)
-   - [iStat](https://apps.apple.com/us/app/istat-menus/id1319778037?mt=12)
-   - [MacBartender](https://www.macbartender.com/)
    - [Loom](https://www.loom.com/)
    - [Tuple](https://tuple.app/)
 5. Set up window management with [Spectacle](https://www.spectacleapp.com/):
