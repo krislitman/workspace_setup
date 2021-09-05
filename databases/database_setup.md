@@ -10,6 +10,7 @@
 `brew install mysql`
 5. Install Redis:
 `brew install redis`
+6. Install dBeaver
 
 To start services, run the command:
 `brew services start postgres`

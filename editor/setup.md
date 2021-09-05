@@ -10,24 +10,18 @@ With `settings sync`, use latest cloudSettings in gist list to sync settings bet
 
 ### List of Extensions
 - advanced-new-file
-- beautify
 - better comments
 - better jinja
-- bracket pair colorizer 2
-- color highlight
-- css peek
 - django
 - docker
 - dotenv
 - draw.io integration
 - erb
-- es7 extension
 - eslint
 - excel viewer
 - flask-snippets
 - graphql
-- highlight matching tag
-- indent to bracket
+- git lens
 - indent-rainbow
 - iterm theme sync
 - javascript es6 code snippets
